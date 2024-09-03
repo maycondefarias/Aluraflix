@@ -2,6 +2,7 @@ body {
     color:white;
     background:black;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 
 
@@ -24,5 +25,5 @@ section{
 
 
 .chamada-texto (
-    margin-right: 20px;
+    margin-right: 5%;
 )
