@@ -1,4 +1,4 @@
-body {
+    body {
     color:white;
     background:black;
     margin: 0px;
@@ -42,5 +42,7 @@ img {
 }
 
 .categoria-video {
-    display: flex;
+    display: flex; 
+    overflow-x: auto;
+    gap: 10px;
 }
